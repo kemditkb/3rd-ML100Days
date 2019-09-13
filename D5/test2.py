@@ -19,10 +19,7 @@ def show_img(first_link):
             # Convert img to numpy array
             plt.imshow(img)
             plt.show()
-                
-    
-    
-    
+
 target_url = 'https://raw.githubusercontent.com/vashineyu/slides_and_others/master/tutorial/examples/imagenet_urls_examples.txt'
 
 import requests
