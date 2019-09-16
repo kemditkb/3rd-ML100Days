@@ -68,7 +68,7 @@ var_head_after = app_train.head(5);
 
 
 """
-
+One Hot encoding
 """
 app_train = pd.get_dummies(app_train)
 app_test = pd.get_dummies(app_test)
@@ -76,6 +76,22 @@ app_test = pd.get_dummies(app_test)
 print(app_train['CODE_GENDER_F'].head())
 print(app_train['CODE_GENDER_M'].head())
 print(app_train['NAME_EDUCATION_TYPE_Academic degree'].head())
+
+#==============================
+
+# 設定 data_path, 並讀取 app_train
+dir_data = '../csv/'
+f_app_train = os.path.join(dir_data, 'application_train.csv')
+app_train = pd.read_csv(f_app_train)
+
+sub_train = pd.DataFrame(app_train['WEEKDAY_APPR_PROCESS_START'])
+print(sub_train.shape)
+sub_train.head()
+
+var_sub_train_one_hot_encoding = pd.get_dummies(sub_train);
+print(var_sub_train_one_hot_encoding.shape);
+var_sub_train_one_hot_encoding.head()
+
 
 
 
