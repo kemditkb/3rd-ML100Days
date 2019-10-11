@@ -37,7 +37,7 @@ train_num = train_Y.shape[0]
 df.head()
 
 
-
+ 
 # 空值補 -1, 做羅吉斯迴歸
 df_m1 = df.fillna(-1)
 train_X = df_m1[:train_num]
