@@ -1,3 +1,5 @@
 *.csv
 */.ipynb_checkpoints/
 csv/*
+*.h5
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
