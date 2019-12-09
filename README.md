@@ -15,6 +15,8 @@ conda install numpy==1.16.2
 
 conda install keras-gpu==2.2.4
 
+conda install matplotlib
+
 conda install jupyter
 
 (捷徑: 目標,開使位置改成專案目錄)
