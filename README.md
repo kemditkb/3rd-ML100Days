@@ -11,6 +11,9 @@ conda activate tensorflow-gpu-3.7
 
 conda install tensorflow-gpu==1.14
 
+conda install jupyter
+
+(捷徑: 目標,開使位置改成專案目錄)
 
 
 
