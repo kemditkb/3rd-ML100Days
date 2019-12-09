@@ -13,7 +13,7 @@ conda install tensorflow-gpu==1.14
 
 conda install numpy==1.16.2
 
-conda install keras==2.2.4
+conda install keras-gpu==2.2.4
 
 conda install jupyter
 
