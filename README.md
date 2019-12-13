@@ -103,5 +103,84 @@ LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
 使用 Scikit-learn 撰寫梯度提升機 (Gradient Boosting Machine) 模型的程式碼
 
 ## 機器學習調整參數
-33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
-33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
+47. [超參數調整與優化](https://github.com/escc1122/3rd-ML100Days/tree/master/D47)
+什麼是超參數 (Hyper-paramter) ? 如何正確的調整超參數？常用的調參方法為何？
+47. [Kaggle 競賽平台介紹](https://github.com/escc1122/3rd-ML100Days/tree/master/D48)
+介紹全球最大的資料科學競賽網站。如何參加競賽？
+47. [集成方法 : 混合泛化(Blending)](https://github.com/escc1122/3rd-ML100Days/tree/master/D49)
+什麼是集成? 集成方法有哪些? Blending 的寫作方法與效果為何?
+47. [集成方法 : 堆疊泛化(Stacking)](https://github.com/escc1122/3rd-ML100Days/tree/master/D50)
+51-53 [Kaggle 第一次期中考](https://github.com/escc1122/3rd-ML100Days/tree/master/D51-53)
+
+## 非監督式機器學習
+51. [clustering 1 非監督式機器學習簡介](https://github.com/escc1122/3rd-ML100Days/tree/master/D54)
+非監督式學習簡介、應用場景
+51. [clustering 2 聚類算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D55)
+K-means
+51. [K-mean 觀察 : 使用輪廓分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D56)
+非監督模型要以特殊評估方法(而非評估函數)來衡量, 今日介紹大家了解並使用其中一種方法 : 輪廓分析
+51. [clustering 3 階層分群算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D57)
+hierarchical clustering
+51. [階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D58)
+非監督評估方法 : 2D樣版資料集是什麼? 如何生成與使用?
+51. [dimension reduction 1 降維方法-主成份分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D59)
+PCA
+51. [PCA 觀察 : 使用手寫辨識資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D60)
+以較複雜的範例 : sklearn版手寫辨識資料集, 展示PCA的降維與資料解釋能力
+51. [dimension reduction 2 降維方法-T-SNE](https://github.com/escc1122/3rd-ML100Days/tree/master/D61)
+TSNE
+51. [t-sne 觀察 : 分群與流形還原](https://github.com/escc1122/3rd-ML100Days/tree/master/D62)
+什麼是流形還原? 除了 t-sne 之外還有那些常見的流形還原方法?
+
+## 深度學習理論與實作
+63. [神經網路介紹](https://github.com/escc1122/3rd-ML100Days/tree/master/D63)
+63. [深度學習體驗 : 模型調整與學習曲線](https://github.com/escc1122/3rd-ML100Days/tree/master/D64)
+介紹體驗平台 TensorFlow PlayGround，並初步了解模型的調整
+63. [深度學習體驗 : 啟動函數與正規化](https://github.com/escc1122/3rd-ML100Days/tree/master/D65)
+在 TF PlayGround 上，體驗進階版的深度學習參數調整
+
+##  初探深度學習使用Keras
+66. [Keras 安裝與介紹](https://github.com/escc1122/3rd-ML100Days/tree/master/D66)
+66. [Keras Dataset](https://github.com/escc1122/3rd-ML100Days/tree/master/D67)
+66. [Keras Sequential API](https://github.com/escc1122/3rd-ML100Days/tree/master/D68)
+66. [Keras Module API](https://github.com/escc1122/3rd-ML100Days/tree/master/D69)
+66. [Multi-layer Perception多層感知](https://github.com/escc1122/3rd-ML100Days/tree/master/D70)
+MLP簡介
+66. [損失函數](https://github.com/escc1122/3rd-ML100Days/tree/master/D71)
+66. [啟動函數](https://github.com/escc1122/3rd-ML100Days/tree/master/D72)
+66. [梯度下降Gradient Descent](https://github.com/escc1122/3rd-ML100Days/tree/master/D73)
+66. [Gradient Descent 數學原理](https://github.com/escc1122/3rd-ML100Days/tree/master/D74)
+介紹梯度下降的基礎數學原理
+66. [BackPropagation](https://github.com/escc1122/3rd-ML100Days/tree/master/D75)
+反向式傳播簡介
+66. [優化器optimizers](https://github.com/escc1122/3rd-ML100Days/tree/master/D76)
+66. [訓練神經網路的細節與技巧 - Validation and overfit](https://github.com/escc1122/3rd-ML100Days/tree/master/D77)
+檢視並了解 overfit 現象
+66. [訓練神經網路前的注意事項](https://github.com/escc1122/3rd-ML100Days/tree/master/D78)
+資料是否經過妥善的處理？運算資源為何？超參數的設置是否正確？
+66. [訓練神經網路的細節與技巧 - Learning rate effect](https://github.com/escc1122/3rd-ML100Days/tree/master/D79)
+比較不同 Learning rate 對訓練過程及結果的差異
+66. [[練習 Day] 優化器與學習率的組合與比較](https://github.com/escc1122/3rd-ML100Days/tree/master/D80)
+66. [訓練神經網路的細節與技巧 - Regularization](https://github.com/escc1122/3rd-ML100Days/tree/master/D81)
+66. [訓練神經網路的細節與技巧 - Dropout](https://github.com/escc1122/3rd-ML100Days/tree/master/D82)
+66. [訓練神經網路的細節與技巧 - Batch normalization](https://github.com/escc1122/3rd-ML100Days/tree/master/D83)
+因應 overfit 的方法概述 - 批次正規化 (Batch Normalization)
+66. [[練習 Day] 正規化/機移除/批次標準化的 組合與比較](https://github.com/escc1122/3rd-ML100Days/tree/master/D84)
+練習時間：Hyper-parameters 大雜燴
+66. [訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop](https://github.com/escc1122/3rd-ML100Days/tree/master/D85)
+因應 overfit 的方法概述 - 悔不當初的煞車機制 (EarlyStopping)
+66. [訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model](https://github.com/escc1122/3rd-ML100Days/tree/master/D86)
+使用 Keras 內建的 callback 函數儲存訓練完的模型
+66. [訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate](https://github.com/escc1122/3rd-ML100Days/tree/master/D87)
+使用 Keras 內建的 callback 函數做學習率遞減
+66. [訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數](https://github.com/escc1122/3rd-ML100Days/tree/master/D88)
+66. [訓練神經網路的細節與技巧 - 撰寫自己的 Loss function](https://github.com/escc1122/3rd-ML100Days/tree/master/D89)
+66. [使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/escc1122/3rd-ML100Days/tree/master/D90)
+了解在神經網路發展前，如何使用傳統機器學習演算法處理影像辨識
+66. [[練習 Day] 使用傳統電腦視覺與機器學習進行影像辨識](https://github.com/escc1122/3rd-ML100Days/tree/master/D91)
+應用傳統電腦視覺方法＋機器學習進行 CIFAR-10 分類
+
+## 深度學習應用卷積神經網路
+
+
+
