@@ -12,7 +12,7 @@
 
 ## 資料清理數據前處理
 5. [如何新建一個 dataframe? 如何讀取其他資料? (非 csv 的資料)](https://github.com/escc1122/3rd-ML100Days/tree/master/D5)
-1. 從頭建立一個 dataframe 2. 如何讀取不同形式的資料 (如圖檔、純文字檔、json 等)
+1 從頭建立一個 dataframe 2. 如何讀取不同形式的資料 (如圖檔、純文字檔、json 等)
 5. [EDA: 欄位的資料類型介紹及處理](https://github.com/escc1122/3rd-ML100Days/tree/master/D6)
 了解資料在 pandas 中可以表示的類型
 5. [特徵類型](https://github.com/escc1122/3rd-ML100Days/tree/master/D7)
