@@ -97,7 +97,11 @@ LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
 隨機森林 (Random Forest)模型的理論基礎與使用時的注意事項
 33. [tree based model - 隨機森林程式碼撰寫](https://github.com/escc1122/3rd-ML100Days/tree/master/D44)
 使用 Scikit-learn 撰寫隨機森林 (Random Forest) 模型的程式碼
-33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
-33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
+33. [tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹](https://github.com/escc1122/3rd-ML100Days/tree/master/D45)
+梯度提升機 (Gradient Boosting Machine) 模型的理論基礎與使用時的注意事項
+33. [tree based model - 梯度提升機程式碼撰寫](https://github.com/escc1122/3rd-ML100Days/tree/master/D46)
+使用 Scikit-learn 撰寫梯度提升機 (Gradient Boosting Machine) 模型的程式碼
+
+## 機器學習調整參數
 33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
 33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
