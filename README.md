@@ -86,5 +86,18 @@
 33. [regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/escc1122/3rd-ML100Days/tree/master/D39)
 LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
 [參考](https://www.zhihu.com/question/38121173)
-33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D31)
-33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D31)
+[參考-病態系統](https://ccjou.wordpress.com/2010/06/22/%e7%97%85%e6%85%8b%e7%b3%bb%e7%b5%b1/)
+33. [regression model 程式碼撰寫](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
+使用 Scikit-learn 撰寫 LASSO 回歸/ Ridge 回歸模型的程式碼
+33. [tree based model - 決策樹 (Decision Tree) 模型介紹](https://github.com/escc1122/3rd-ML100Days/tree/master/D41)
+決策樹 (Decision Tree) 模型的理論基礎與使用時的注意事項
+33. [tree based model - 決策樹程式碼撰寫](https://github.com/escc1122/3rd-ML100Days/tree/master/D42)
+使用 Scikit-learn 撰寫決策樹 (Decision Tree) 模型的程式碼
+33. [tree based model - 隨機森林 (Random Forest) 介紹](https://github.com/escc1122/3rd-ML100Days/tree/master/D43)
+隨機森林 (Random Forest)模型的理論基礎與使用時的注意事項
+33. [tree based model - 隨機森林程式碼撰寫](https://github.com/escc1122/3rd-ML100Days/tree/master/D44)
+使用 Scikit-learn 撰寫隨機森林 (Random Forest) 模型的程式碼
+33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
+33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
+33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
+33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D40)
