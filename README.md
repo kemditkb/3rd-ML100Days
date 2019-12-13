@@ -49,13 +49,42 @@
 
 22. [特徵工程簡介](https://github.com/escc1122/3rd-ML100Days/tree/master/D22)
 介紹機器學習完整步驟中，特徵工程的位置以及流程架構
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
-22. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
+22. [數值型特徵 - 去除偏態](https://github.com/escc1122/3rd-ML100Days/tree/master/D23)
+數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差
+22. [類別型特徵 - 基礎處理](https://github.com/escc1122/3rd-ML100Days/tree/master/D24)
+介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼
+22. [類別型特徵 - 均值編碼](https://github.com/escc1122/3rd-ML100Days/tree/master/D25)
+類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代
+22. [類別型特徵 - 其他進階處理](https://github.com/escc1122/3rd-ML100Days/tree/master/D26)
+類別型特徵的其他常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵
+22. [時間型特徵](https://github.com/escc1122/3rd-ML100Days/tree/master/D27)
+時間型特徵可抽取出多個子特徵，或周期化，或取出連續時段內的次數
+22. [特徵組合 - 數值與數值組合](https://github.com/escc1122/3rd-ML100Days/tree/master/D28)
+特徵組合的基礎 : 以四則運算的各種方式，組合成更具預測力的特徵
+22. [特徵組合 - 類別與數值組合](https://github.com/escc1122/3rd-ML100Days/tree/master/D29)
+類別型對數值型特徵可以做群聚編碼，與目標均值編碼類似，但用途不同
+22. [特徵選擇](https://github.com/escc1122/3rd-ML100Days/tree/master/D30)
+介紹常見的幾種特徵篩選方式
+22. [特徵評估](https://github.com/escc1122/3rd-ML100Days/tree/master/D31)
+介紹並比較兩種重要的特徵評估方式，協助檢測特徵的重要性
+22. [分類型特徵優化 - 葉編碼](https://github.com/escc1122/3rd-ML100Days/tree/master/D32)
+葉編碼 : 適用於分類問題的樹狀預估模型改良
+
+## 機器學習基礎模型建立
+33. [機器如何學習?](https://github.com/escc1122/3rd-ML100Days/tree/master/D33)
+了解機器學習的定義，過擬合 (Overfit) 是甚麼，該如何解決
+33. [訓練/測試集切分的概念](https://github.com/escc1122/3rd-ML100Days/tree/master/D34)
+為何要做訓練/測試集切分？有什麼切分的方法？
+33. [regression vs. classification](https://github.com/escc1122/3rd-ML100Days/tree/master/D35)
+回歸問題與分類問題的區別？如何定義專案的目標
+33. [評估指標選定/evaluation metrics](https://github.com/escc1122/3rd-ML100Days/tree/master/D36)
+專案該如何選擇評估指標？常用指標有哪些？
+33. [regression model 介紹 - 線性迴歸/羅吉斯回歸](https://github.com/escc1122/3rd-ML100Days/tree/master/D37)
+線性迴歸/羅吉斯回歸模型的理論基礎與使用時的注意事項
+33. [regression model 程式碼撰寫](https://github.com/escc1122/3rd-ML100Days/tree/master/D38)
+如何使用 Scikit-learn 撰寫線性迴歸/羅吉斯回歸模型的程式碼
+33. [regression model 介紹 - LASSO 回歸/ Ridge 回歸](https://github.com/escc1122/3rd-ML100Days/tree/master/D39)
+LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
+[參考](https://www.zhihu.com/question/38121173)
+33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D31)
+33. [11111](https://github.com/escc1122/3rd-ML100Days/tree/master/D31)
