@@ -181,6 +181,18 @@ MLP簡介
 應用傳統電腦視覺方法＋機器學習進行 CIFAR-10 分類
 
 ## 深度學習應用卷積神經網路
-
-
+92. [卷積神經網路 (Convolution Neural Network, CNN) 簡介](https://github.com/escc1122/3rd-ML100Days/tree/master/D92)
+了解CNN的重要性, 以及CNN的組成結構
+92. [卷積神經網路架構細節](https://github.com/escc1122/3rd-ML100Days/tree/master/D93)
+為什麼比DNN更適合處理影像問題, 以及Keras上如何實作CNN
+92. [卷積神經網路 - 卷積(Convolution)層與參數調整](https://github.com/escc1122/3rd-ML100Days/tree/master/D94)
+卷積層原理與參數說明
+92. [卷積神經網路 - 池化(Pooling)層與參數調整](https://github.com/escc1122/3rd-ML100Days/tree/master/D95)
+介紹 Keras 中常用的 CNN layers
+92. [Keras 中的 CNN layers](https://github.com/escc1122/3rd-ML100Days/tree/master/D96)
+92. [使用 CNN 完成 CIFAR-10 資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D97)
+透過 CNN 訓練 CIFAR-10 並比較其與 DNN 的差異
+92. [訓練卷積神經網路的細節與技巧 - 處理大量數據](https://github.com/escc1122/3rd-ML100Days/tree/master/D98)
+92. [555](https://github.com/escc1122/3rd-ML100Days/tree/master/D99)
+92. [5555](https://github.com/escc1122/3rd-ML100Days/tree/master/D100)
 
