@@ -116,21 +116,21 @@ LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
 ## 非監督式機器學習
 54. [clustering 1 非監督式機器學習簡介](https://github.com/escc1122/3rd-ML100Days/tree/master/D54)
 非監督式學習簡介、應用場景
-*. [clustering 2 聚類算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D55)
+54. [clustering 2 聚類算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D55)
 K-means
-*. [K-mean 觀察 : 使用輪廓分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D56)
+54. [K-mean 觀察 : 使用輪廓分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D56)
 非監督模型要以特殊評估方法(而非評估函數)來衡量, 今日介紹大家了解並使用其中一種方法 : 輪廓分析
-*. [clustering 3 階層分群算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D57)
+54. [clustering 3 階層分群算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D57)
 hierarchical clustering
 54. [階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D58)
 非監督評估方法 : 2D樣版資料集是什麼? 如何生成與使用?
-*. [dimension reduction 1 降維方法-主成份分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D59)
+54. [dimension reduction 1 降維方法-主成份分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D59)
 PCA
-*. [PCA 觀察 : 使用手寫辨識資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D60)
+54. [PCA 觀察 : 使用手寫辨識資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D60)
 以較複雜的範例 : sklearn版手寫辨識資料集, 展示PCA的降維與資料解釋能力
-*. [dimension reduction 2 降維方法-T-SNE](https://github.com/escc1122/3rd-ML100Days/tree/master/D61)
+54. [dimension reduction 2 降維方法-T-SNE](https://github.com/escc1122/3rd-ML100Days/tree/master/D61)
 TSNE
-*. [t-sne 觀察 : 分群與流形還原](https://github.com/escc1122/3rd-ML100Days/tree/master/D62)
+54. [t-sne 觀察 : 分群與流形還原](https://github.com/escc1122/3rd-ML100Days/tree/master/D62)
 什麼是流形還原? 除了 t-sne 之外還有那些常見的流形還原方法?
 
 ## 深度學習理論與實作
