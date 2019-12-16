@@ -110,26 +110,27 @@ LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
 47. [集成方法 : 混合泛化(Blending)](https://github.com/escc1122/3rd-ML100Days/tree/master/D49)
 什麼是集成? 集成方法有哪些? Blending 的寫作方法與效果為何?
 47. [集成方法 : 堆疊泛化(Stacking)](https://github.com/escc1122/3rd-ML100Days/tree/master/D50)
+
 51-53 [Kaggle 第一次期中考](https://github.com/escc1122/3rd-ML100Days/tree/master/D51-53)
 
 ## 非監督式機器學習
-51. [clustering 1 非監督式機器學習簡介](https://github.com/escc1122/3rd-ML100Days/tree/master/D54)
+54. [clustering 1 非監督式機器學習簡介](https://github.com/escc1122/3rd-ML100Days/tree/master/D54)
 非監督式學習簡介、應用場景
-51. [clustering 2 聚類算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D55)
+54. [clustering 2 聚類算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D55)
 K-means
-51. [K-mean 觀察 : 使用輪廓分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D56)
+54. [K-mean 觀察 : 使用輪廓分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D56)
 非監督模型要以特殊評估方法(而非評估函數)來衡量, 今日介紹大家了解並使用其中一種方法 : 輪廓分析
-51. [clustering 3 階層分群算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D57)
+54. [clustering 3 階層分群算法](https://github.com/escc1122/3rd-ML100Days/tree/master/D57)
 hierarchical clustering
-51. [階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D58)
+54. [階層分群法 觀察 : 使用 2D 樣版資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D58)
 非監督評估方法 : 2D樣版資料集是什麼? 如何生成與使用?
-51. [dimension reduction 1 降維方法-主成份分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D59)
+54. [dimension reduction 1 降維方法-主成份分析](https://github.com/escc1122/3rd-ML100Days/tree/master/D59)
 PCA
-51. [PCA 觀察 : 使用手寫辨識資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D60)
+54. [PCA 觀察 : 使用手寫辨識資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D60)
 以較複雜的範例 : sklearn版手寫辨識資料集, 展示PCA的降維與資料解釋能力
-51. [dimension reduction 2 降維方法-T-SNE](https://github.com/escc1122/3rd-ML100Days/tree/master/D61)
+54. [dimension reduction 2 降維方法-T-SNE](https://github.com/escc1122/3rd-ML100Days/tree/master/D61)
 TSNE
-51. [t-sne 觀察 : 分群與流形還原](https://github.com/escc1122/3rd-ML100Days/tree/master/D62)
+54. [t-sne 觀察 : 分群與流形還原](https://github.com/escc1122/3rd-ML100Days/tree/master/D62)
 什麼是流形還原? 除了 t-sne 之外還有那些常見的流形還原方法?
 
 ## 深度學習理論與實作
@@ -195,4 +196,14 @@ MLP簡介
 92. [訓練卷積神經網路的細節與技巧 - 處理大量數據](https://github.com/escc1122/3rd-ML100Days/tree/master/D98)
 92. [555](https://github.com/escc1122/3rd-ML100Days/tree/master/D99)
 92. [5555](https://github.com/escc1122/3rd-ML100Days/tree/master/D100)
+
+
+
+## 優化器(Optimizer)
+[Optimizer](https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%96%E7%95%8C/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-note-sgd-momentum-adagrad-adam-optimizer-f20568c968db)
+
+
+
+
+
 
