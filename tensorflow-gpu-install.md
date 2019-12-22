@@ -25,3 +25,6 @@ conda install scikit-learn
 conda install jupyter
 
 (捷徑: 目標,開使位置改成專案目錄)
+
+
+conda install Pillow
