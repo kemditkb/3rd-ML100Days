@@ -194,10 +194,14 @@ MLP簡介
 92. [使用 CNN 完成 CIFAR-10 資料集](https://github.com/escc1122/3rd-ML100Days/tree/master/D97)
 透過 CNN 訓練 CIFAR-10 並比較其與 DNN 的差異
 92. [訓練卷積神經網路的細節與技巧 - 處理大量數據](https://github.com/escc1122/3rd-ML100Days/tree/master/D98)
-92. [555](https://github.com/escc1122/3rd-ML100Days/tree/master/D99)
-92. [5555](https://github.com/escc1122/3rd-ML100Days/tree/master/D100)
+資料無法放進記憶體該如何解決？如何使用 Python 的生成器 generator?
+92. [訓練卷積神經網路的細節與技巧 - 處理小量數據](https://github.com/escc1122/3rd-ML100Days/tree/master/D99)
+資料太少準確率不高怎麼辦？如何使用資料增強提升準確率？
+92. [訓練卷積神經網路的細節與技巧 - 轉移學習 (Transfer learning)](https://github.com/escc1122/3rd-ML100Days/tree/master/D100)
+何謂轉移學習 Transfer learning？該如何使用？
 
-
+## Kaggle 期末考
+101. [透過 Kaggle 影像辨識測驗, 綜合應用深度學習的課程內容, 並體驗遷移學習的威力](https://github.com/escc1122/3rd-ML100Days/tree/master/D101-103)
 
 ## 優化器(Optimizer)
 [Optimizer](https://medium.com/%E9%9B%9E%E9%9B%9E%E8%88%87%E5%85%94%E5%85%94%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%96%E7%95%8C/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92ml-note-sgd-momentum-adagrad-adam-optimizer-f20568c968db)
