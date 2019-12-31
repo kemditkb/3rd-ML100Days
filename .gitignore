@@ -4,3 +4,7 @@ csv/*
 *.h5
 .ipynb_checkpoints/Untitled-checkpoint.ipynb
 *.jpg
+*.hdf5
+*.ESCC1122-PC
+*.7z
+*.zip
